@@ -20,7 +20,7 @@ Me interesa comprender cómo las estructuras sociales, las instituciones y las e
 
 ### Proyecto destacado
 
-[**Procesamiento de datos sobre ollas comunes y condiciones de vida con ENAHO 2024**]([https://github.com/belen-arce/PC3_Bel-n_Arce](https://github.com/belen-arce/enaho-2024-ollas-comunes))
+[**Procesamiento de datos sobre ollas comunes y condiciones de vida con ENAHO 2024**](https://github.com/belen-arce/enaho-2024-ollas-comunes)
 
 Proyecto desarrollado en colaboración con Damián Tapia. Integra microdatos de la ENAHO 2024 mediante R y documenta procedimientos de limpieza, integración, exploración y clasificación de datos.
 
